@@ -3,5 +3,4 @@
 👋 Hi, I’m Azizullah <br>
 👀 I’m Frontend web developer<br>
 💞️ I’m looking to collaborate on every kind of work<br>
-   My linkding profile is linkedin.com/in/azizullah-b8966835a
 📫 How to reach me azizullahcodes@gmail.com
