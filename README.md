@@ -3,12 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Azizullah%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Web%20Developer&descAlignY=58&descSize=20" />
 
-
-
-
-
-
-
 </div>
 
 ---
@@ -20,7 +14,7 @@
 - 🔌 I create **RESTful APIs** and integrate them using **Axios & Fetch**
 - 📱 I build **fully responsive layouts** that look great on every screen
 - 💞️ I'm looking to **collaborate on every kind of work**
-- 📫 How to reach me: **azizullahcodes@gmail.com**
+- 📫 How to reach me: [azizullahcodes@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=azizullahcodes@gmail.com)
 
 ---
 
@@ -45,7 +39,7 @@
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 
 </div>
@@ -87,7 +81,7 @@
 
 <div align="center">
 
-<a href="mailto:azizullahcodes@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=azizullahcodes@gmail.com&su=Hello%20Azizullah">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/azizullah-b8966835a/">
@@ -100,7 +94,6 @@
 </div>
 
 ---
-
 
 <div align="center">
 
