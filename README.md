@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+
 
 </div>
 
