@@ -3,11 +3,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Azizullah%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Web%20Developer&descAlignY=58&descSize=20" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Web+Developer;Building+scalable+REST+APIs+%26+responsive+UIs;React+%7C+Next.js+%7C+Node+%7C+Express+%7C+MongoDB;Open+to+collaborate+on+every+kind+of+work+💞" alt="Typing SVG" />
-</a>
 
-<br/>
+
+
 
 
 
